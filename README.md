@@ -5,7 +5,7 @@
 I build tools at the intersection of mathematics and software.
 Currently developing [**TEC — The Everything Calculator**](https://github.com/FeAlmassy/The-Everything-Calculator), an interactive multi-tool app for applied math built with Python and Streamlit.
 
-My focus is on mathematical modeling, statistical inference, and stochastic processes — with a long-term goal of working in quantitative data science for European companies.
+My focus is on mathematical modeling, statistical inference, and stochastic processes — with a long-term goal of working in quantitative data science for companies.
 
 ---
 
