@@ -1,6 +1,6 @@
 # Fellipe Almässy
 
-**Computer Engineering student · Applied Mathematics · Data Science**
+** Applied Mathematics | Computer Engineering student | Data Science**
 
 I build tools at the intersection of mathematics and software.
 Currently developing [**TEC — The Everything Calculator**](https://github.com/FeAlmassy/The-Everything-Calculator), an interactive multi-tool app for applied math built with Python and Streamlit.
